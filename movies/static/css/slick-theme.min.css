@@ -1,0 +1,648 @@
+@charset 'UTF-8';
+
+.slick-dots,
+.slick-next,
+.slick-prev {
+    position: absolute;
+    display: block;
+    padding: 0
+}
+
+.slick-dots li button:before,
+.slick-next:before,
+.slick-prev:before {
+    font-family: slick;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale
+}
+
+.slick-next,
+.slick-prev {
+    font-size: 0;
+    line-height: 0;
+    top: 50%;
+    width: 20px;
+    height: 20px;
+    -webkit-transform: translate(0, -50%);
+    -ms-transform: translate(0, -50%);
+    transform: translate(0, -50%);
+    cursor: pointer;
+    color: transparent;
+    border: none;
+    outline: 0;
+    background: 0 0
+}
+
+.slick-next:focus,
+.slick-next:hover,
+.slick-prev:focus,
+.slick-prev:hover {
+    color: transparent;
+    outline: 0;
+    background: 0 0
+}
+
+.slick-next:focus:before,
+.slick-next:hover:before,
+.slick-prev:focus:before,
+.slick-prev:hover:before {
+    opacity: 1
+}
+
+.slick-next.slick-disabled:before,
+.slick-prev.slick-disabled:before {
+    opacity: .25
+}
+
+.slick-next:before,
+.slick-prev:before {
+    font-size: 20px;
+    line-height: 1;
+    opacity: .75;
+    color: #fff
+}
+
+.slick-prev {
+    left: -25px
+}
+
+[dir=rtl] .slick-prev {
+    right: -25px;
+    left: auto
+}
+
+.slick-prev:before {
+    content: ''
+}
+
+.slick-next:before,
+[dir=rtl] .slick-prev:before {
+    content: ''
+}
+
+.slick-next {
+    right: -25px
+}
+
+[dir=rtl] .slick-next {
+    right: auto;
+    left: -25px
+}
+
+[dir=rtl] .slick-next:before {
+    content: ''
+}
+
+.slick-dotted.slick-slider {
+    margin-bottom: 30px
+}
+
+.slick-dots {
+    bottom: 25px;
+    width: 100%;
+    margin: 0;
+    list-style: none;
+    text-align: center
+}
+
+.slick-dots li {
+    position: relative;
+    display: inline-block;
+    width: 5px;
+    height: 20px;
+    margin: 0 5px;
+    padding: 0;
+    cursor: pointer
+}
+
+.slick-dots li button {
+    font-size: 0;
+    line-height: 0;
+    display: block;
+    width: 20px;
+    height: 20px;
+    padding: 5px;
+    cursor: pointer;
+    color: transparent;
+    border: 0;
+    outline: 0;
+    background: 0 0
+}
+
+.slick-dots li button:focus,
+.slick-dots li button:hover {
+    outline: 0
+}
+
+.slick-dots li button:hover:before {
+    opacity: 1
+}
+
+.slick-dots li button:before {
+    font-size: 7px;
+    line-height: 20px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 20px;
+    height: 20px;
+    content: '●';
+    text-align: center;
+    opacity: .25;
+    color: white;
+}
+
+
+
+.slick-dots li.slick-active button:before {
+    opacity: .75;
+    color: white;
+}
+
+#product__items-content-wrapper .slick-prev:hover,
+#product__items-content-wrapper .slick-next:hover,
+#collections-slider .slick-prev:hover,
+#collections-slider .slick-next:hover,
+#product__seasons .slick-prev:hover,
+#product__seasons .slick-next:hover,
+#product__heroes .slick-prev:hover,
+#product__heroes .slick-next:hover {
+    opacity: 1;
+}
+
+#collections-slider .slick-prev:hover,
+#collections-slider .slick-next:hover {
+    -webkit-transform: scale(1.2, 1.2);
+    transform: scale(1.2, 1.2);
+
+}
+
+
+#collections-slider .slick-prev,
+#collections-slider .slick-next {
+    -webkit-transform: translate(0, 0);
+    -ms-transform: translate(0, 0);
+    transform: translate(0, 0);
+    top: 0% !important;
+    -webkit-transition: transform 0.2s linear;
+    transition: transform 0.2s linear;
+}
+
+#product__items-content-wrapper .slick-prev:before,
+#product__items-content-wrapper .slick-next:before,
+#collections-slider .slick-next:before,
+#collections-slider .slick-prev:before,
+#product__seasons .slick-next:before,
+#product__seasons .slick-prev:before,
+#product__heroes .slick-next:before,
+#product__heroes .slick-prev:before {
+    content: '';
+}
+
+#product__seasons .slick-prev {
+    z-index: 1;
+    width: 52px;
+    height: 44px;
+    left: -28px;
+    margin-top: 0;
+    top: 22px;
+    background-image: url('/static/images/product/series-left.svg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    opacity: 0.8;
+}
+
+#product__seasons .slick-next {
+    z-index: 1;
+    width: 52px;
+    height: 44px;
+    right: -30px;
+    margin-top: 0;
+    top: 22px;
+    background-image: url('/static/images/product/series-right.svg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    opacity: 0.8;
+
+}
+
+#product__items-content-wrapper .slick-prev {
+    z-index: 1;
+    width: 52px;
+    height: 44px;
+    left: 0;
+    margin-top: 0;
+    top: 5.5vw;
+    background-image: url('/static/images/product/series-left.svg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    opacity: 0.8;
+
+}
+
+#product__items-content-wrapper .slick-next {
+    z-index: 1;
+    width: 52px;
+    height: 44px;
+    right: -30px;
+    margin-top: 0;
+    top: 5.5vw;
+    background-image: url('/static/images/product/series-right.svg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    opacity: 0.8;
+}
+
+
+#collections-slider .slick-next {
+    z-index: 1;
+    width: 52px;
+    height: 100%;
+    right: 0px;
+    top: 50%;
+    margin-top: -25px;
+    background-image: url('/static/images/collections/arrow-adult-right.svg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    opacity: 0.8;
+}
+
+#calendar-slider .slick-next {
+    width: 58px;
+    height: 44px;
+    right: 0;
+    top: 0;
+    margin-top: 16px;
+    background-image: url('/static/images/calendar/calendar-arrow-right.svg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+.child #collections-slider .slick-next,
+.child #calendar-slider .slick-next {
+    background-image: url('/static/images/collections/arrow-kids-right.svg');
+}
+
+.child .slick-dots li button:before {
+    font-size: 7px;
+    line-height: 20px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 20px;
+    height: 20px;
+    content: '●';
+    text-align: center;
+    opacity: .25;
+    color: black;
+}
+
+.slick-dots li.slick-active button:before {
+    opacity: 1;
+    color: white;
+}
+
+#collections-slider .slick-prev {
+    z-index: 1;
+    width: 52px;
+    height: 100%;
+    right: 0px;
+    top: 50%;
+    margin-top: -25px;
+    background-image: url('/static/images/collections/arrow-adult-left.svg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    opacity: 0.8;
+}
+
+#calendar-slider .slick-prev {
+    width: 58px;
+    height: 44px;
+    left: -40px;
+    top: 0;
+    margin-top: 16px;
+    background-image: url('/static/images/calendar/calendar-arrow-left.svg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+.child #collections-slider .slick-prev,
+.child #calendar-slider .slick-prev {
+    background-image: url('/static/images/collections/arrow-kids-left.svg');
+}
+
+#product__heroes .slick-prev {
+    z-index: 1;
+    width: 52px;
+    height: 44px;
+    left: 0;
+    margin-top: 0;
+    top: 7.3vw;
+    background-image: url('/static/images/product/series-left.svg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    opacity: 0.8;
+}
+
+#product__heroes .slick-next {
+    z-index: 1;
+    width: 52px;
+    height: 44px;
+    right: -30px;
+    margin-top: 0;
+    top: 7.3vw;
+    margin-top: 0px;
+    background-image: url('/static/images/product/series-right.svg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    opacity: 0.8;
+}
+
+#product__heroes .slick-track {
+    display: flex;
+    align-items: stretch;
+}
+
+#product__heroes .slick-slide {
+    float: none;
+    height: auto;
+}
+
+#product__heroes .slick-slide>div {
+    height: 100%;
+}
+
+#collections-slider .slick-disabled,
+#calendar-slider .slick-disabled,
+#product__seasons .slick-disabled,
+#product__heroes .slick-disabled,
+#product__items-content-wrapper .slick-disabled {
+    visibility: hidden;
+}
+
+#collections-slider .slick-dots li button:before {
+    font-family: sans-serif;
+    /* font-family: 'ProximaNova-Regular'; */
+    font-size: 8px;
+
+}
+
+#storytel .slick-next {
+    z-index: 1;
+    width: 18px;
+    height: 40px;
+    right: calc(1vw - 18px );
+    margin-top: 0;
+    top: calc(5.3125vw - 20px);
+    background-image: url('/static/images/landings/Storytel/arrow-r.svg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    transform: translate(0, 0);
+}
+
+#storytel .slick-prev {
+    z-index: 1;
+    width: 18px;
+    height: 40px;
+    right: -30px;
+    margin-top: 0;
+    top: calc(5.3125vw - 20px);
+    background-image: url('/static/images/landings/Storytel/arrow-r.svg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    transform: translate(0, 0);
+    transform: rotate(-180deg);
+    left: -40px;
+}
+
+#storytel .slick-disabled {
+    visibility: hidden;
+}
+
+@media(max-width:1279px) {
+
+    #calendar-slider .slick-next {
+        right: -20px;
+        top: 0;
+    }
+}
+
+@media(max-width:1024px) {
+
+    #product__items-content-wrapper .slick-prev {
+        z-index: 1;
+        width: 39px;
+        height: 33px;
+        left: 0;
+        margin-top: 0;
+        top: 7.5vw;
+        background-image: url('/static/images/product/series-left.svg');
+        background-size: cover;
+        background-repeat: no-repeat;
+        opacity: 1;
+    }
+
+    #collections-slider .slick-prev {
+        left: 0px;
+    }
+
+    #product__items-content-wrapper .slick-next {
+        z-index: 1;
+        width: 39px;
+        height: 33px;
+        right: -12px;
+        margin-top: 0;
+        top: 7.5vw;
+        background-image: url('/static/images/product/series-right.svg');
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center center;
+        opacity: 1;
+    }
+
+    #product__seasons .slick-prev {
+        z-index: 1;
+        width: 39px;
+        height: 33px;
+        left: -20px;
+        margin-top: 0;
+        top: 17px;
+        background-image: url('/static/images/product/series-left.svg');
+        background-size: cover;
+        background-repeat: no-repeat;
+        opacity: 0.8;
+    }
+
+    #product__seasons .slick-next {
+        z-index: 1;
+        width: 39px;
+        height: 33px;
+        right: -12px;
+        margin-top: 0;
+        top: 17px;
+        background-image: url('/static/images/product/series-right.svg');
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center center;
+        opacity: 0.8;
+    }
+
+    #product__heroes .slick-prev {
+        z-index: 1;
+        width: 39px;
+        height: 33px;
+        left: 0;
+        margin-top: 0;
+        top: 9.6vw;
+        background-image: url('/static/images/product/series-left.svg');
+        background-size: cover;
+        background-repeat: no-repeat;
+        opacity: 1;
+    }
+
+    #product__heroes .slick-next {
+        z-index: 1;
+        width: 39px;
+        height: 33px;
+        right: -12px;
+        margin-top: 0;
+        top: 9.6vw;
+        margin-top: 0px;
+        background-image: url('/static/images/product/series-right.svg');
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center center;
+        opacity: 1;
+    }
+
+    #calendar-slider .slick-prev,
+    #calendar-slider .slick-next {
+        display: none !important;
+    }
+}
+
+@media(max-width:767px) {
+    #product__seasons .slick-prev {
+        z-index: 1;
+        width: 39px;
+        height: 33px;
+        left: -20px;
+        margin-top: 0;
+        top: 17px;
+        background-image: url('/static/images/product/series-left.svg');
+        background-size: cover;
+        background-repeat: no-repeat;
+        opacity: 0.8;
+    }
+
+    #collections-slider .slick-next,
+    #collections-slider .slick-prev {
+        visibility: hidden;
+    }
+
+    #product__seasons .slick-next {
+        z-index: 1;
+        width: 39px;
+        height: 33px;
+        right: -16px;
+        margin-top: 0;
+        top: 17px;
+        background-image: url('/static/images/product/series-right.svg');
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center center;
+        opacity: 0.8;
+    }
+
+    #calendar-slider .slick-prev,
+    #calendar-slider .slick-next {
+        display: none !important;
+    }
+}
+
+@media(min-width:1441px) {
+    #product__items-content-wrapper .slick-prev {
+        z-index: 1;
+        width: 3.6111vw;
+        height: 3.05vw;
+        left: 0;
+        margin-top: 0;
+        top: 5.5vw;
+        background-image: url('/static/images/product/series-left.svg');
+        background-size: cover;
+        background-repeat: no-repeat;
+        opacity: 0.8;
+    }
+
+    #product__items-content-wrapper .slick-next {
+        z-index: 1;
+        width: 3.6111vw;
+        height: 3.05vw;
+        right: -2.0888vw;
+        margin-top: 0;
+        top: 5.5vw;
+        opacity: 0.8;
+    }
+
+    #product__seasons .slick-prev {
+        z-index: 1;
+        width: 3.6111vw;
+        height: 3.05vw;
+        left: 0;
+        margin-top: 0;
+        top: 1.502vw;
+        background-image: url('/static/images/product/series-left.svg');
+        background-size: cover;
+        background-repeat: no-repeat;
+        opacity: 0.8;
+
+    }
+
+    #product__seasons .slick-next {
+        z-index: 1;
+        width: 3.6111vw;
+        height: 3.05vw;
+        right: -2.0888vw;
+        margin-top: 0;
+        top: 1.502vw;
+    }
+
+    #product__heroes .slick-prev {
+        z-index: 1;
+        width: 3.6vw;
+        height: 3.05vw;
+        top: 7.3vw;
+    }
+
+    #product__heroes .slick-next {
+        width: 3.6vw;
+        height: 3.05vw;
+        top: 7.3vw;
+        right: -2.0833vw;
+    }
+
+    #storytel .slick-next {
+        width: 1.25vw;
+        height: 2.777vw;
+        right: 0.25vw;
+        margin-top: 0;
+        top: calc(5.3125vw - 1.388vw);
+    }
+    
+    #storytel .slick-prev {
+        width: 1.25vw;
+        height: 2.777vw;
+        left: -2.0vw;
+        margin-top: 0;
+        top: calc(5.3125vw - 1.388vw);
+    }
+}

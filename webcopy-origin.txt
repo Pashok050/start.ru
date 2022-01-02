@@ -1,0 +1,1032 @@
+Uri: https://start.ru/
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\index.htm
+Content Type: text/html
+
+Uri: https://start.ru/static/images/footer/samsung.svg?v=3.0
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\static\images\footer\samsung.svg
+Content Type: image/svg+xml
+
+Uri: https://start.ru/static/images/footer/lg.svg?v=3.0
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\static\images\footer\lg.svg
+Content Type: image/svg+xml
+
+Uri: https://start.ru/static/images/footer/sony.svg?v=3.0
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\static\images\footer\sony.svg
+Content Type: image/svg+xml
+
+Uri: https://start.ru/static/images/footer/philips.svg?v=3.0
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\static\images\footer\philips.svg
+Content Type: image/svg+xml
+
+Uri: https://start.ru/static/images/footer/mi.svg?v=3.0
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\static\images\footer\mi.svg
+Content Type: image/svg+xml
+
+Uri: https://start.ru/static/images/footer/hisense.svg?v=3.0
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\static\images\footer\hisense.svg
+Content Type: image/svg+xml
+
+Uri: https://start.ru/static/images/footer/apple_tv.svg?v=3.0
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\static\images\footer\apple_tv.svg
+Content Type: image/svg+xml
+
+Uri: https://start.ru/static/images/footer/mi_box.svg?v=3.0
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\static\images\footer\mi_box.svg
+Content Type: image/svg+xml
+
+Uri: https://start.ru/static/images/favicon/favicon.ico?v=3.1
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\static\images\favicon\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://start.ru/static/images/favicon/favicon-32x32.png
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\static\images\favicon\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://start.ru/static/images/favicon/favicon-16x16.png
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\static\images\favicon\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://start.ru/static/images/favicon/Safary-icon-144.png?v=2.0
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\static\images\favicon\Safary-icon-144.png
+Content Type: image/png
+
+Uri: https://start.ru/static/images/favicon/apple-touch-icon.png
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\static\images\favicon\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://start.ru/static/css/nprogress_v2.css?v=9.3.6
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\static\css\nprogress_v2.css
+Content Type: text/css
+
+Uri: https://start.ru/static/css/slick.min.css?v=9.4
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\static\css\slick.min.css
+Content Type: text/css
+
+Uri: https://start.ru/static/css/slick-theme.min.css?v=9.4
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\static\css\slick-theme.min.css
+Content Type: text/css
+
+Uri: https://start.ru/static/images/sharing.jpg
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\static\images\sharing.jpg
+Content Type: image/jpeg
+
+Uri: https://start.ru/_next/static/css/8a14a80fcf74e2294d6d.css
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\_next\static\css\8a14a80fcf74e2294d6d.css
+Content Type: text/css
+
+Uri: https://start.ru/_next/static/css/f79154c70dbce49c429e.css
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\_next\static\css\f79154c70dbce49c429e.css
+Content Type: text/css
+
+Uri: https://start.ru/_next/static/css/665244bf2d4f8aef1d10.css
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\_next\static\css\665244bf2d4f8aef1d10.css
+Content Type: text/css
+
+Uri: https://start.ru/_next/static/css/c370d00e0f9a7f696b61.css
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\_next\static\css\c370d00e0f9a7f696b61.css
+Content Type: text/css
+
+Uri: https://start.ru/_next/static/css/9434a04fce5d31beee2e.css
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\_next\static\css\9434a04fce5d31beee2e.css
+Content Type: text/css
+
+Uri: https://start.ru/_next/static/css/a715c3bec5d6e9ae6f18.css
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\_next\static\css\a715c3bec5d6e9ae6f18.css
+Content Type: text/css
+
+Uri: https://start.ru/_next/static/chunks/webpack-194ebf28d126ef369af9.js
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\_next\static\chunks\webpack-194ebf28d126ef369af9.js
+Content Type: application/javascript
+
+Uri: https://start.ru/_next/static/chunks/framework-67645038e77f018ab301.js
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\_next\static\chunks\framework-67645038e77f018ab301.js
+Content Type: application/javascript
+
+Uri: https://start.ru/_next/static/chunks/7925-094d761c17641a217071.js
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\_next\static\chunks\7925-094d761c17641a217071.js
+Content Type: application/javascript
+
+Uri: https://start.ru/_next/static/chunks/3433-b40c40a67c5a96b539df.js
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\_next\static\chunks\3433-b40c40a67c5a96b539df.js
+Content Type: application/javascript
+
+Uri: https://start.ru/_next/static/chunks/5778-38a7b062215e76a4aa5b.js
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\_next\static\chunks\5778-38a7b062215e76a4aa5b.js
+Content Type: application/javascript
+
+Uri: https://start.ru/_next/static/chunks/main-2332246e379a82cf837d.js
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\_next\static\chunks\main-2332246e379a82cf837d.js
+Content Type: application/javascript
+
+Uri: https://start.ru/_next/static/chunks/ddc9e94f-d2c3ae542acad40b6124.js
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\_next\static\chunks\ddc9e94f-d2c3ae542acad40b6124.js
+Content Type: application/javascript
+
+Uri: https://start.ru/_next/static/chunks/ea88be26-a27e67b90cd160287de8.js
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\_next\static\chunks\ea88be26-a27e67b90cd160287de8.js
+Content Type: application/javascript
+
+Uri: https://start.ru/_next/static/chunks/2090-4973d71e3eb4f3e8d831.js
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\_next\static\chunks\2090-4973d71e3eb4f3e8d831.js
+Content Type: application/javascript
+
+Uri: https://start.ru/_next/static/chunks/7018-b16c0c2a9b339140cdfb.js
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\_next\static\chunks\7018-b16c0c2a9b339140cdfb.js
+Content Type: application/javascript
+
+Uri: https://start.ru/_next/static/chunks/2191-cd6978e6f00232ab31e5.js
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\_next\static\chunks\2191-cd6978e6f00232ab31e5.js
+Content Type: application/javascript
+
+Uri: https://start.ru/_next/static/chunks/569-af49ec9d97a009d36143.js
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\_next\static\chunks\569-af49ec9d97a009d36143.js
+Content Type: application/javascript
+
+Uri: https://start.ru/_next/static/chunks/8122-d7797598f308d7c2ebfa.js
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\_next\static\chunks\8122-d7797598f308d7c2ebfa.js
+Content Type: application/javascript
+
+Uri: https://start.ru/_next/static/chunks/2619-3f8b221dd966658f407f.js
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\_next\static\chunks\2619-3f8b221dd966658f407f.js
+Content Type: application/javascript
+
+Uri: https://start.ru/_next/static/chunks/5080-382d0368a590d5467abd.js
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\_next\static\chunks\5080-382d0368a590d5467abd.js
+Content Type: application/javascript
+
+Uri: https://start.ru/_next/static/chunks/2774-5e0fbe78dd5bdecf995d.js
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\_next\static\chunks\2774-5e0fbe78dd5bdecf995d.js
+Content Type: application/javascript
+
+Uri: https://start.ru/_next/static/chunks/6335-ef6ebbaf939eb2846b64.js
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\_next\static\chunks\6335-ef6ebbaf939eb2846b64.js
+Content Type: application/javascript
+
+Uri: https://start.ru/_next/static/chunks/1688-f2860b089e515f2b8818.js
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\_next\static\chunks\1688-f2860b089e515f2b8818.js
+Content Type: application/javascript
+
+Uri: https://start.ru/_next/static/chunks/6880-950a5984aac2690e563d.js
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\_next\static\chunks\6880-950a5984aac2690e563d.js
+Content Type: application/javascript
+
+Uri: https://start.ru/_next/static/chunks/3325-e05420cfab41c6a1315e.js
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\_next\static\chunks\3325-e05420cfab41c6a1315e.js
+Content Type: application/javascript
+
+Uri: https://start.ru/_next/static/chunks/822-d1ac799626f384f8c6fa.js
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\_next\static\chunks\822-d1ac799626f384f8c6fa.js
+Content Type: application/javascript
+
+Uri: https://start.ru/_next/static/chunks/3016-7a95c279233725661ef9.js
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\_next\static\chunks\3016-7a95c279233725661ef9.js
+Content Type: application/javascript
+
+Uri: https://start.ru/_next/static/chunks/430-8e0ebdce908ebb6d4405.js
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\_next\static\chunks\430-8e0ebdce908ebb6d4405.js
+Content Type: application/javascript
+
+Uri: https://start.ru/_next/static/chunks/1877-43e6b856cc5147f203b3.js
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\_next\static\chunks\1877-43e6b856cc5147f203b3.js
+Content Type: application/javascript
+
+Uri: https://start.ru/_next/static/chunks/pages/_app-3f7dd66affd45b2c5681.js
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\_next\static\chunks\pages\_app-3f7dd66affd45b2c5681.js
+Content Type: application/javascript
+
+Uri: https://start.ru/_next/static/chunks/5527-07cc4c8c50860d8ec80e.js
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\_next\static\chunks\5527-07cc4c8c50860d8ec80e.js
+Content Type: application/javascript
+
+Uri: https://start.ru/_next/static/chunks/6592-9db73c7281e8be985ead.js
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\_next\static\chunks\6592-9db73c7281e8be985ead.js
+Content Type: application/javascript
+
+Uri: https://start.ru/_next/static/chunks/pages/index-7f8f24e50e60c05bb374.js
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\_next\static\chunks\pages\index-7f8f24e50e60c05bb374.js
+Content Type: application/javascript
+
+Uri: https://start.ru/tariffs
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\tariffs.html
+Content Type: text/html
+
+Uri: https://start.ru/legal/privacy_policy
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\legal\privacy_policy.html
+Content Type: text/html
+
+Uri: https://start.ru/legal/terms_of_use
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\legal\terms_of_use.html
+Content Type: text/html
+
+Uri: https://start.ru/about
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\about.html
+Content Type: text/html
+
+Uri: https://start.ru/contacts
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\contacts.html
+Content Type: text/html
+
+Uri: https://start.ru/partners
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\partners.html
+Content Type: text/html
+
+Uri: https://start.ru/ways-to-watch
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\ways-to-watch.html
+Content Type: text/html
+
+Uri: https://start.ru/faq
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\faq.html
+Content Type: text/html
+
+Uri: https://start.ru/jobs
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\jobs.html
+Content Type: text/html
+
+Uri: https://start.ru/promos
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\promos.html
+Content Type: text/html
+
+Uri: https://start.ru/support
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\support.html
+Content Type: text/html
+
+Uri: https://www.youtube.com/channel/UCRgbyMytcwJwT86rlbBHFzQ/
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\channel\UCRgbyMytcwJwT86rlbBHFzQ\index.htm
+Content Type: text/html
+
+Uri: https://ok.ru/startru
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\startru.html
+Content Type: text/html
+
+Uri: https://start.ru/static/images/startPlayer/spiner.svg
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\static\images\startPlayer\spiner.svg
+Content Type: image/svg+xml
+
+Uri: https://start.ru/static/images/footer/sony-big-white.png
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\static\images\footer\sony-big-white.png
+Content Type: image/png
+
+Uri: https://start.ru/static/images/footer/sk_logo.svg
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\static\images\footer\sk_logo.svg
+Content Type: image/svg+xml
+
+Uri: https://start.ru/static/images/footer/age_18.svg?v=2.0
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\static\images\footer\age_18.svg
+Content Type: image/svg+xml
+
+Uri: https://start.ru/static/images/footer/cloud_payment.svg?v=2.0
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\static\images\footer\cloud_payment.svg
+Content Type: image/svg+xml
+
+Uri: https://start.ru/static/images/footer/payonline.svg?v=2.0
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\static\images\footer\payonline.svg
+Content Type: image/svg+xml
+
+Uri: https://start.ru/static/images/footer/fb.svg?v=2.0
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\static\images\footer\fb.svg
+Content Type: image/svg+xml
+
+Uri: https://start.ru/static/images/footer/youtube.svg?v=2.0
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\static\images\footer\youtube.svg
+Content Type: image/svg+xml
+
+Uri: https://start.ru/static/images/footer/vk.svg?v=2.0
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\static\images\footer\vk.svg
+Content Type: image/svg+xml
+
+Uri: https://start.ru/static/images/footer/insta.svg?v=2.0
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\static\images\footer\insta.svg
+Content Type: image/svg+xml
+
+Uri: https://start.ru/static/images/footer/ok.svg?v=2.0
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\static\images\footer\ok.svg
+Content Type: image/svg+xml
+
+Uri: https://start.ru/static/images/footer/visa.svg?v=2.0
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\static\images\footer\visa.svg
+Content Type: image/svg+xml
+
+Uri: https://start.ru/static/images/footer/mir.svg?v=3.0
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\static\images\footer\mir.svg
+Content Type: image/svg+xml
+
+Uri: https://start.ru/static/images/footer/mastercard.svg?v=2.0
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\static\images\footer\mastercard.svg
+Content Type: image/svg+xml
+
+Uri: https://start.ru/static/images/footer/apple.svg?v=4.0
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\static\images\footer\apple.svg
+Content Type: image/svg+xml
+
+Uri: https://start.ru/static/images/footer/google.svg?v=4.0
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\static\images\footer\google.svg
+Content Type: image/svg+xml
+
+Uri: https://start.ru/static/images/footer/Huawei.svg?v=4.0
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\static\images\footer\Huawei.svg
+Content Type: image/svg+xml
+
+Uri: https://start.ru/_next/static/chunks/polyfills-ec4e5916daa21dfc2df4.js
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\_next\static\chunks\polyfills-ec4e5916daa21dfc2df4.js
+Content Type: application/javascript
+
+Uri: https://start.ru/_next/static/4e6f166f/_buildManifest.js
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\_next\static\4e6f166f\_buildManifest.js
+Content Type: application/javascript
+
+Uri: https://start.ru/_next/static/4e6f166f/_ssgManifest.js
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\_next\static\4e6f166f\_ssgManifest.js
+Content Type: application/javascript
+
+Uri: https://start.ru/static/images/footer/sony-big-white@2x.png
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\static\images\footer\sony-big-white@2x.png
+Content Type: image/png
+
+Uri: https://start.ru/static/images/footer/sony-big-white@4x.png
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\static\images\footer\sony-big-white@4x.png
+Content Type: image/png
+
+Uri: https://start.ru/static/images/product/series-left.svg
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\static\images\product\series-left.svg
+Content Type: image/svg+xml
+
+Uri: https://start.ru/static/images/product/series-right.svg
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\static\images\product\series-right.svg
+Content Type: image/svg+xml
+
+Uri: https://start.ru/static/images/collections/arrow-adult-right.svg
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\static\images\collections\arrow-adult-right.svg
+Content Type: image/svg+xml
+
+Uri: https://start.ru/static/images/calendar/calendar-arrow-right.svg
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\static\images\calendar\calendar-arrow-right.svg
+Content Type: image/svg+xml
+
+Uri: https://start.ru/static/images/collections/arrow-kids-right.svg
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\static\images\collections\arrow-kids-right.svg
+Content Type: image/svg+xml
+
+Uri: https://start.ru/static/images/collections/arrow-adult-left.svg
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\static\images\collections\arrow-adult-left.svg
+Content Type: image/svg+xml
+
+Uri: https://start.ru/static/images/calendar/calendar-arrow-left.svg
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\static\images\calendar\calendar-arrow-left.svg
+Content Type: image/svg+xml
+
+Uri: https://start.ru/static/images/collections/arrow-kids-left.svg
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\static\images\collections\arrow-kids-left.svg
+Content Type: image/svg+xml
+
+Uri: https://start.ru/static/images/landings/Storytel/arrow-r.svg
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\static\images\landings\Storytel\arrow-r.svg
+Content Type: image/svg+xml
+
+Uri: https://start.ru/static/fonts/Proxima/ProximaNova-Regular.woff2
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\static\fonts\Proxima\ProximaNova-Regular.woff2
+Content Type: application/octet-stream
+
+Uri: https://start.ru/static/fonts/Proxima/ProximaNova-Bold.woff2
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\static\fonts\Proxima\ProximaNova-Bold.woff2
+Content Type: application/octet-stream
+
+Uri: https://start.ru/static/fonts/Proxima-Nova-Regular-Italic.woff
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\static\fonts\Proxima-Nova-Regular-Italic.woff
+Content Type: application/font-woff
+
+Uri: https://start.ru/static/fonts/CormorantGaramond-Medium.woff
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\static\fonts\CormorantGaramond-Medium.woff
+Content Type: application/font-woff
+
+Uri: https://start.ru/static/fonts/Proxima-Nova-Semibold.woff
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\static\fonts\Proxima-Nova-Semibold.woff
+Content Type: application/font-woff
+
+Uri: https://start.ru/static/fonts/PTMono/PTMono-Regular.woff
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\static\fonts\PTMono\PTMono-Regular.woff
+Content Type: application/font-woff
+
+Uri: https://start.ru/static/images/global/spinner.png
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\static\images\global\spinner.png
+Content Type: image/png
+
+Uri: https://start.ru/static/images/payment/checkbox_red_d.svg
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\static\images\payment\checkbox_red_d.svg
+Content Type: image/svg+xml
+
+Uri: https://start.ru/static/images/global/checkbox-on.svg
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\static\images\global\checkbox-on.svg
+Content Type: image/svg+xml
+
+Uri: https://start.ru/static/images/payment/checkbox_red_a.svg
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\static\images\payment\checkbox_red_a.svg
+Content Type: image/svg+xml
+
+Uri: https://start.ru/static/images/NotFound/child_404.jpg
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\static\images\NotFound\child_404.jpg
+Content Type: image/jpeg
+
+Uri: https://start.ru/static/images/checkbox/Active.svg
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\static\images\checkbox\Active.svg
+Content Type: image/svg+xml
+
+Uri: https://start.ru/static/images/cookiebot/active_check.png
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\static\images\cookiebot\active_check.png
+Content Type: image/png
+
+Uri: https://start.ru/static/images/cookiebot/active.png
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\static\images\cookiebot\active.png
+Content Type: image/png
+
+Uri: https://start.ru/static/images/cookiebot/unactive.png
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\static\images\cookiebot\unactive.png
+Content Type: image/png
+
+Uri: https://start.ru/static/images/cookiebot/show_more.png
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\static\images\cookiebot\show_more.png
+Content Type: image/png
+
+Uri: https://start.ru/static/images/cookiebot/hide.png
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\static\images\cookiebot\hide.png
+Content Type: image/png
+
+Uri: https://start.ru/static/images/featured/play.svg
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\static\images\featured\play.svg
+Content Type: image/svg+xml
+
+Uri: https://start.ru/static/images/newVideoUnit/ellipse.svg
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\static\images\newVideoUnit\ellipse.svg
+Content Type: image/svg+xml
+
+Uri: https://start.ru/static/images/newVideoUnit/ellipse_mobile.svg
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\static\images\newVideoUnit\ellipse_mobile.svg
+Content Type: image/svg+xml
+
+Uri: https://start.ru/_next/static/css/d41ad7d3133ba9042bce.css
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\_next\static\css\d41ad7d3133ba9042bce.css
+Content Type: text/css
+
+Uri: https://start.ru/_next/static/css/ad406cb0980255760c86.css
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\_next\static\css\ad406cb0980255760c86.css
+Content Type: text/css
+
+Uri: https://start.ru/_next/static/chunks/5430-4664be35bfcd444b4c42.js
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\_next\static\chunks\5430-4664be35bfcd444b4c42.js
+Content Type: application/javascript
+
+Uri: https://start.ru/_next/static/chunks/pages/tariffs-c7ef12d4acffe79e80ee.js
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\_next\static\chunks\pages\tariffs-c7ef12d4acffe79e80ee.js
+Content Type: application/javascript
+
+Uri: https://start.ru/_next/static/css/f17b3218b04f08e0844c.css
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\_next\static\css\f17b3218b04f08e0844c.css
+Content Type: text/css
+
+Uri: https://start.ru/_next/static/chunks/1771-e7eee95018078b99006a.js
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\_next\static\chunks\1771-e7eee95018078b99006a.js
+Content Type: application/javascript
+
+Uri: https://start.ru/_next/static/chunks/pages/privacy-edc715a76c6c2a917834.js
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\_next\static\chunks\pages\privacy-edc715a76c6c2a917834.js
+Content Type: application/javascript
+
+Uri: https://start.ru/legal
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\legal.html
+Content Type: text/html
+
+Uri: https://start.ru/static/images/breadCrumbs/breadcrumbs-arrow.svg
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\static\images\breadCrumbs\breadcrumbs-arrow.svg
+Content Type: image/svg+xml
+
+Uri: https://start.ru/_next/static/chunks/83-b64ac886b3c848e874ca.js
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\_next\static\chunks\83-b64ac886b3c848e874ca.js
+Content Type: application/javascript
+
+Uri: https://start.ru/_next/static/chunks/pages/termsofuse-9f5857d536d91d26ee5e.js
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\_next\static\chunks\pages\termsofuse-9f5857d536d91d26ee5e.js
+Content Type: application/javascript
+
+Uri: https://sk.ru/
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\index-1.htm
+Content Type: text/html
+
+Uri: https://start.ru/_next/static/chunks/2624-eadab8503d5640da1e3e.js
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\_next\static\chunks\2624-eadab8503d5640da1e3e.js
+Content Type: application/javascript
+
+Uri: https://start.ru/_next/static/chunks/pages/about-0bbbf400522d7271160a.js
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\_next\static\chunks\pages\about-0bbbf400522d7271160a.js
+Content Type: application/javascript
+
+Uri: https://start.ru/static/images/partners/Oval.svg
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\static\images\partners\Oval.svg
+Content Type: image/svg+xml
+
+Uri: https://start.ru/_next/static/chunks/6775-45e510f899561be59bde.js
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\_next\static\chunks\6775-45e510f899561be59bde.js
+Content Type: application/javascript
+
+Uri: https://start.ru/_next/static/chunks/pages/contacts-c019c4bdef10f5c696e8.js
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\_next\static\chunks\pages\contacts-c019c4bdef10f5c696e8.js
+Content Type: application/javascript
+
+Uri: https://start.ru/static/images/partners/megogo.svg
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\static\images\partners\megogo.svg
+Content Type: image/svg+xml
+
+Uri: https://start.ru/static/images/partners/voka.svg
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\static\images\partners\voka.svg
+Content Type: image/svg+xml
+
+Uri: https://start.ru/static/images/partners/kartina-tv.svg
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\static\images\partners\kartina-tv.svg
+Content Type: image/svg+xml
+
+Uri: https://start.ru/static/images/partners/TTK.svg
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\static\images\partners\TTK.svg
+Content Type: image/svg+xml
+
+Uri: https://start.ru/static/images/partners/beeline.svg
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\static\images\partners\beeline.svg
+Content Type: image/svg+xml
+
+Uri: https://start.ru/static/images/partners/Megafon.svg
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\static\images\partners\Megafon.svg
+Content Type: image/svg+xml
+
+Uri: https://start.ru/static/images/partners/wink.svg
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\static\images\partners\wink.svg
+Content Type: image/svg+xml
+
+Uri: https://start.ru/static/images/partners/smotreshka.svg
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\static\images\partners\smotreshka.svg
+Content Type: image/svg+xml
+
+Uri: https://start.ru/static/images/partners/tele-2.svg
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\static\images\partners\tele-2.svg
+Content Type: image/svg+xml
+
+Uri: https://start.ru/static/images/partners/mgts.svg
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\static\images\partners\mgts.svg
+Content Type: image/svg+xml
+
+Uri: https://start.ru/static/images/partners/dom-ru.svg
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\static\images\partners\dom-ru.svg
+Content Type: image/svg+xml
+
+Uri: https://start.ru/static/images/partners/MTS.svg
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\static\images\partners\MTS.svg
+Content Type: image/svg+xml
+
+Uri: https://start.ru/static/images/partners/okko.svg
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\static\images\partners\okko.svg
+Content Type: image/svg+xml
+
+Uri: https://start.ru/static/images/partners/spb-tv.svg
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\static\images\partners\spb-tv.svg
+Content Type: image/svg+xml
+
+Uri: https://start.ru/static/images/partners/odnoklassiki.svg
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\static\images\partners\odnoklassiki.svg
+Content Type: image/svg+xml
+
+Uri: https://start.ru/static/images/partners/hot.svg
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\static\images\partners\hot.svg
+Content Type: image/svg+xml
+
+Uri: https://start.ru/_next/static/css/51cc865300317b2b274e.css
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\_next\static\css\51cc865300317b2b274e.css
+Content Type: text/css
+
+Uri: https://start.ru/_next/static/chunks/8151-84a86dd2e40df847c9dc.js
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\_next\static\chunks\8151-84a86dd2e40df847c9dc.js
+Content Type: application/javascript
+
+Uri: https://start.ru/_next/static/chunks/pages/partners-79d99eab49ae1a669f26.js
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\_next\static\chunks\pages\partners-79d99eab49ae1a669f26.js
+Content Type: application/javascript
+
+Uri: https://start.ru/static/images/partners/map.svg
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\static\images\partners\map.svg
+Content Type: image/svg+xml
+
+Uri: https://start.ru/static/images/partners/mail.svg
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\static\images\partners\mail.svg
+Content Type: image/svg+xml
+
+Uri: https://start.ru/static/images/ways-to-watch/samsung.svg
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\static\images\ways-to-watch\samsung.svg
+Content Type: image/svg+xml
+
+Uri: https://start.ru/static/images/ways-to-watch/lg.svg
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\static\images\ways-to-watch\lg.svg
+Content Type: image/svg+xml
+
+Uri: https://start.ru/static/images/ways-to-watch/sony.svg
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\static\images\ways-to-watch\sony.svg
+Content Type: image/svg+xml
+
+Uri: https://start.ru/static/images/ways-to-watch/hisence.svg
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\static\images\ways-to-watch\hisence.svg
+Content Type: image/svg+xml
+
+Uri: https://start.ru/static/images/ways-to-watch/philips.svg
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\static\images\ways-to-watch\philips.svg
+Content Type: image/svg+xml
+
+Uri: https://start.ru/static/images/ways-to-watch/haier.svg
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\static\images\ways-to-watch\haier.svg
+Content Type: image/svg+xml
+
+Uri: https://start.ru/static/images/ways-to-watch/tcl.svg
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\static\images\ways-to-watch\tcl.svg
+Content Type: image/svg+xml
+
+Uri: https://start.ru/static/images/ways-to-watch/xiaomi.svg
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\static\images\ways-to-watch\xiaomi.svg
+Content Type: image/svg+xml
+
+Uri: https://start.ru/_next/static/css/409e9abf423213dd7b53.css
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\_next\static\css\409e9abf423213dd7b53.css
+Content Type: text/css
+
+Uri: https://start.ru/_next/static/chunks/pages/ways-to-watch-040fe697d58bc1709220.js
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\_next\static\chunks\pages\ways-to-watch-040fe697d58bc1709220.js
+Content Type: application/javascript
+
+Uri: https://start.ru/static/images/ways-to-watch/group-6.svg
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\static\images\ways-to-watch\group-6.svg
+Content Type: image/svg+xml
+
+Uri: https://start.ru/static/images/ways-to-watch/group-7.svg
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\static\images\ways-to-watch\group-7.svg
+Content Type: image/svg+xml
+
+Uri: https://start.ru/static/images/ways-to-watch/group-8.svg
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\static\images\ways-to-watch\group-8.svg
+Content Type: image/svg+xml
+
+Uri: https://start.ru/static/images/ways-to-watch/ways-to-watch-arrow-big.svg
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\static\images\ways-to-watch\ways-to-watch-arrow-big.svg
+Content Type: image/svg+xml
+
+Uri: https://start.ru/static/images/ways-to-watch/TV.jpg
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\static\images\ways-to-watch\TV.jpg
+Content Type: image/jpeg
+
+Uri: https://start.ru/_next/static/chunks/pages/faq-74f3679e074db3d34212.js
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\_next\static\chunks\pages\faq-74f3679e074db3d34212.js
+Content Type: application/javascript
+
+Uri: https://start.ru/signup
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\signup.html
+Content Type: text/html
+
+Uri: https://support.apple.com/ru-ru/HT202039
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\ru-ru\HT202039.html
+Content Type: text/html
+
+Uri: https://start.ru/account
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\account.html
+Content Type: text/html
+
+Uri: https://start.ru/_next/static/css/c1c374d964f0e6069089.css
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\_next\static\css\c1c374d964f0e6069089.css
+Content Type: text/css
+
+Uri: https://start.ru/_next/static/css/749ac278cd31f5cf9e53.css
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\_next\static\css\749ac278cd31f5cf9e53.css
+Content Type: text/css
+
+Uri: https://start.ru/_next/static/chunks/6261-8527bacacead4f5cf1a9.js
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\_next\static\chunks\6261-8527bacacead4f5cf1a9.js
+Content Type: application/javascript
+
+Uri: https://start.ru/_next/static/chunks/3064-9e8470931095cd98ac6f.js
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\_next\static\chunks\3064-9e8470931095cd98ac6f.js
+Content Type: application/javascript
+
+Uri: https://start.ru/_next/static/chunks/9236-858e6d428fceef9622bc.js
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\_next\static\chunks\9236-858e6d428fceef9622bc.js
+Content Type: application/javascript
+
+Uri: https://start.ru/_next/static/chunks/pages/jobs-21ea624fff0124a5b32c.js
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\_next\static\chunks\pages\jobs-21ea624fff0124a5b32c.js
+Content Type: application/javascript
+
+Uri: https://start.ru/jobs/50733754
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\jobs\50733754.html
+Content Type: text/html
+
+Uri: https://start.ru/jobs/50770892
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\jobs\50770892.html
+Content Type: text/html
+
+Uri: https://start.ru/jobs/50566828
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\jobs\50566828.html
+Content Type: text/html
+
+Uri: https://start.ru/jobs/48983126
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\jobs\48983126.html
+Content Type: text/html
+
+Uri: https://start.ru/jobs/50771705
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\jobs\50771705.html
+Content Type: text/html
+
+Uri: https://start.ru/jobs/49129316
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\jobs\49129316.html
+Content Type: text/html
+
+Uri: https://start.ru/jobs/50046113
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\jobs\50046113.html
+Content Type: text/html
+
+Uri: https://start.ru/jobs/49945247
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\jobs\49945247.html
+Content Type: text/html
+
+Uri: https://start.ru/jobs/49144336
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\jobs\49144336.html
+Content Type: text/html
+
+Uri: https://start.ru/jobs/50717309
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\jobs\50717309.html
+Content Type: text/html
+
+Uri: https://start.ru/jobs/50460513
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\jobs\50460513.html
+Content Type: text/html
+
+Uri: https://start.ru/jobs/50127987
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\jobs\50127987.html
+Content Type: text/html
+
+Uri: https://start.ru/jobs/49620636
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\jobs\49620636.html
+Content Type: text/html
+
+Uri: https://start.ru/jobs/49280228
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\jobs\49280228.html
+Content Type: text/html
+
+Uri: https://start.ru/jobs/50656608
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\jobs\50656608.html
+Content Type: text/html
+
+Uri: https://start.ru/jobs/50678278
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\jobs\50678278.html
+Content Type: text/html
+
+Uri: https://start.ru/jobs/49677364
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\jobs\49677364.html
+Content Type: text/html
+
+Uri: https://start.ru/jobs/50131897
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\jobs\50131897.html
+Content Type: text/html
+
+Uri: https://start.ru/jobs/50425417
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\jobs\50425417.html
+Content Type: text/html
+
+Uri: https://start.ru/jobs/50491496
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\jobs\50491496.html
+Content Type: text/html
+
+Uri: https://start.ru/jobs/50267442
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\jobs\50267442.html
+Content Type: text/html
+
+Uri: https://start.ru/jobs/49945276
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\jobs\49945276.html
+Content Type: text/html
+
+Uri: https://start.ru/jobs/49311902
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\jobs\49311902.html
+Content Type: text/html
+
+Uri: https://start.ru/jobs/49557729
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\jobs\49557729.html
+Content Type: text/html
+
+Uri: https://start.ru/jobs/50131047
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\jobs\50131047.html
+Content Type: text/html
+
+Uri: https://start.ru/jobs/50398790
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\jobs\50398790.html
+Content Type: text/html
+
+Uri: https://start.ru/jobs/49712968
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\jobs\49712968.html
+Content Type: text/html
+
+Uri: https://start.ru/jobs/49712620
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\jobs\49712620.html
+Content Type: text/html
+
+Uri: https://start.ru/jobs/50356867
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\jobs\50356867.html
+Content Type: text/html
+
+Uri: https://start.ru/static/images/jobs/1.svg
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\static\images\jobs\1.svg
+Content Type: image/svg+xml
+
+Uri: https://start.ru/static/images/jobs/2.svg
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\static\images\jobs\2.svg
+Content Type: image/svg+xml
+
+Uri: https://start.ru/static/images/jobs/3.svg
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\static\images\jobs\3.svg
+Content Type: image/svg+xml
+
+Uri: https://start.ru/static/images/jobs/4.svg
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\static\images\jobs\4.svg
+Content Type: image/svg+xml
+
+Uri: https://start.ru/static/images/jobs/5.svg
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\static\images\jobs\5.svg
+Content Type: image/svg+xml
+
+Uri: https://start.ru/static/images/jobs/6.svg
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\static\images\jobs\6.svg
+Content Type: image/svg+xml
+
+Uri: https://start.ru/static/images/jobs/arrow_down.svg
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\static\images\jobs\arrow_down.svg
+Content Type: image/svg+xml
+
+Uri: https://start.ru/static/images/jobs/Pinata.png
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\static\images\jobs\Pinata.png
+Content Type: image/png
+
+Uri: https://start.ru/static/images/jobs/Roma.png
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\static\images\jobs\Roma.png
+Content Type: image/png
+
+Uri: https://start.ru/static/images/jobs/BorisLena.png
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\static\images\jobs\BorisLena.png
+Content Type: image/png
+
+Uri: https://start.ru/static/images/jobs/Dogs.png
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\static\images\jobs\Dogs.png
+Content Type: image/png
+
+Uri: https://start.ru/static/images/jobs/DosMontelobos.png
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\static\images\jobs\DosMontelobos.png
+Content Type: image/png
+
+Uri: https://start.ru/static/images/jobs/Girls.png
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\static\images\jobs\Girls.png
+Content Type: image/png
+
+Uri: https://start.ru/static/images/jobs/IvanOlegIra.png
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\static\images\jobs\IvanOlegIra.png
+Content Type: image/png
+
+Uri: https://start.ru/static/images/jobs/Oleg.png
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\static\images\jobs\Oleg.png
+Content Type: image/png
+
+Uri: https://start.ru/_next/static/css/3dbcc9f6f1aef92851a8.css
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\_next\static\css\3dbcc9f6f1aef92851a8.css
+Content Type: text/css
+
+Uri: https://start.ru/_next/static/chunks/pages/promos-4644b7e0129a6e24df3f.js
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\_next\static\chunks\pages\promos-4644b7e0129a6e24df3f.js
+Content Type: application/javascript
+
+Uri: https://start.ru/static/Kupony-pravila-vk.pdf
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\static\Kupony-pravila-vk.pdf
+Content Type: application/pdf
+
+Uri: https://start.ru/static/BlackFriday_rules261121.pdf
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\static\BlackFriday_rules261121.pdf
+Content Type: application/pdf
+
+Uri: https://start.ru/static/rules_VK_eda_06.12.2021-1.pdf
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\static\rules_VK_eda_06.12.2021-1.pdf
+Content Type: application/pdf
+
+Uri: https://start.ru/static/rules_VK_Snowfall_15.12.2021.pdf
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\static\rules_VK_Snowfall_15.12.2021.pdf
+Content Type: application/pdf
+
+Uri: https://start.ru/_next/static/css/ee3ef24a59a671de5f06.css
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\_next\static\css\ee3ef24a59a671de5f06.css
+Content Type: text/css
+
+Uri: https://start.ru/_next/static/chunks/pages/support-24ead724d79d1e07b7b7.js
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\_next\static\chunks\pages\support-24ead724d79d1e07b7b7.js
+Content Type: application/javascript
+
+Uri: https://apps.apple.com/RU/app/id1273218458?mt=8
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\RU\app\id1273218458.html
+Content Type: text/html
+
+Uri: https://start.ru/_next/static/chunks/3244-24336a6be850dfe466a7.js
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\_next\static\chunks\3244-24336a6be850dfe466a7.js
+Content Type: application/javascript
+
+Uri: https://start.ru/_next/static/chunks/pages/legal-60f760b1f4b0f04fd23e.js
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\_next\static\chunks\pages\legal-60f760b1f4b0f04fd23e.js
+Content Type: application/javascript
+
+Uri: https://start.ru/legal/terms_of_promocode
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\legal\terms_of_promocode.html
+Content Type: text/html
+
+Uri: https://start.ru/legal/cookies_policy
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\legal\cookies_policy.html
+Content Type: text/html
+
+Uri: https://start.ru/legal/persondata
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\legal\persondata.html
+Content Type: text/html
+
+Uri: https://www.messenger.com/login.php?next=https:%2F%2Fwww.messenger.com%2Ft%2F1266886443365245%2F%3Fmessaging_source%3Dsource%253Apages%253Amessage_shortlink
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\login.php.html
+Content Type: text/html
+
+Uri: https://start.ru/static/images/ways-to-watch/Smart TV Landing_Background@2x.jpg
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\static\images\ways-to-watch\Smart TV Landing_Background@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://start.ru/_next/static/css/32fb5b5556b428ab6bbf.css
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\_next\static\css\32fb5b5556b428ab6bbf.css
+Content Type: text/css
+
+Uri: https://start.ru/_next/static/chunks/8882-d85ac9a13038a4ef55d3.js
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\_next\static\chunks\8882-d85ac9a13038a4ef55d3.js
+Content Type: application/javascript
+
+Uri: https://start.ru/_next/static/chunks/pages/signup-4e98aac327a07246aa55.js
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\_next\static\chunks\pages\signup-4e98aac327a07246aa55.js
+Content Type: application/javascript
+
+Uri: https://start.ru/_next/static/css/0041f546ee4c72bfa062.css
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\_next\static\css\0041f546ee4c72bfa062.css
+Content Type: text/css
+
+Uri: https://start.ru/_next/static/chunks/pages/account-abfac12f11fc705dacfd.js
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\_next\static\chunks\pages\account-abfac12f11fc705dacfd.js
+Content Type: application/javascript
+
+Uri: https://start.ru/static/images/jobs/upload_file.svg
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\static\images\jobs\upload_file.svg
+Content Type: image/svg+xml
+
+Uri: https://start.ru/_next/static/media/arrow.95e2e6e47f49e7fc8595c4386d394fa3.svg
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\_next\static\media\arrow.95e2e6e47f49e7fc8595c4386d394fa3.svg
+Content Type: image/svg+xml
+
+Uri: https://start.ru/_next/static/chunks/1957-acd230c8cf92e62880c7.js
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\_next\static\chunks\1957-acd230c8cf92e62880c7.js
+Content Type: application/javascript
+
+Uri: https://start.ru/_next/static/chunks/pages/termsofpromocode-91f48d9903733f4e8c5c.js
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\_next\static\chunks\pages\termsofpromocode-91f48d9903733f4e8c5c.js
+Content Type: application/javascript
+
+Uri: https://start.ru/_next/static/chunks/892-beb420c759e0eebd00af.js
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\_next\static\chunks\892-beb420c759e0eebd00af.js
+Content Type: application/javascript
+
+Uri: https://start.ru/_next/static/chunks/pages/cookies_policy-ab547aeb50046a243765.js
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\_next\static\chunks\pages\cookies_policy-ab547aeb50046a243765.js
+Content Type: application/javascript
+
+Uri: https://start.ru/_next/static/css/e099b34a31eb10e2e77e.css
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\_next\static\css\e099b34a31eb10e2e77e.css
+Content Type: text/css
+
+Uri: https://start.ru/_next/static/chunks/pages/persondata-96f1afc4c55b54f444f7.js
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\_next\static\chunks\pages\persondata-96f1afc4c55b54f444f7.js
+Content Type: application/javascript
+
+Uri: https://start.ru/static/images/card-types/current-payment.svg
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\static\images\card-types\current-payment.svg
+Content Type: image/svg+xml
+
+Uri: https://start.ru/static/images/card-types/trashbin.svg
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\static\images\card-types\trashbin.svg
+Content Type: image/svg+xml
+
+Uri: https://start.ru/static/images/card-types/trashbin-hover.svg
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\static\images\card-types\trashbin-hover.svg
+Content Type: image/svg+xml
+
+Uri: https://www.facebook.com/login/?next=https:%2F%2Fwww.facebook.com%2Fstart.studio.ru%2F
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\login\index.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/accounts/login/
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\accounts\login\index.htm
+Content Type: text/html
+
+Uri: https://play.google.com/store/apps/details?id=ru.start.androidmobile&referrer=af_tranid%3D05jcYApnJPLvAtDHiI4JIw%26pid%3DWebsite_Page%26c%3DMain
+File Name: C:\Users\belob\Downloads\new_copy_sites\start.ru\store\apps\details.html
+Content Type: text/html
+
